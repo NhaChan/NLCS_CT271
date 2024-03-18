@@ -1,0 +1,7 @@
+.form-edit {
+    width: 500px;
+    margin: auto;
+    background-color: var(--white--color);
+    border-radius: 5px;
+    margin-top: 50px;
+}
